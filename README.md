@@ -4,7 +4,7 @@ This file provides the **high-level weekly roadmap** for DATA 201: *Statistical 
 Detailed materials, labs, readings, and assignments for each week will live in **separate folders/files**.
 
 > ⚠️ The schedule is tentative and may be adjusted as the semester progresses.  
-> All updates will be announced in class and on Blackboard.
+> All updates will be announced in class and on MS team.
 
 ---
 
