@@ -4,12 +4,17 @@
 
 ## Topics
 
-- **Extended generalized linear models** — GLMs beyond linear regression (e.g., logistic, Poisson) and when to use them.
-- **Classification methods** — Framing prediction as classification and introduction to key methods and evaluation.
+- **Feature transformations** — Log, scale, and other transforms to improve model fit and interpretability.
+- **Feature selection strategies** — Subset selection, shrinkage, and criteria for choosing which predictors to keep.
+- **Interpretability vs. model stability** — Tradeoffs between explainable models and predictive performance.
+
+## Milestone
+
+- **Project 1 Due + Presentations**
 
 ## Notes
 
-- This folder is for Week 7 materials: notebooks, slides, datasets, and instructions.
+- This folder is for Week 5 materials: notebooks, slides, datasets, and instructions.
 - Add labs, readings, or assignments here as the week is updated.
 
 ---
